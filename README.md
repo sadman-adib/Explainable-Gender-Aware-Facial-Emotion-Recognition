@@ -48,7 +48,8 @@
   <h2>Usage</h2>
   <p>Clone the repo and follow model training scripts in the <code>/models</code> directory. Dataset folder structure: <code>train/</code>, <code>valid/</code>, <code>test/</code>.</p>
 
-  <h2>Publication Status</h2> <p>The paper corresponding to this experiment has been submitted to the journal <i>The Visual Computer</i> (Springer Nature).</p>
+  <h2>Publication Status</h2>  
+<p>The manuscript corresponding to this experiment has been submitted to the journal <i>The Visual Computer</i> (Springer Nature), with Manuscript ID: <code>c544c8e8-2291-4765-891c-ccd31ba1c1a9</code>.</p>
 
 </body>
 </html>
