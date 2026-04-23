@@ -8,7 +8,7 @@
 
   <h1>Explainable Gender-Aware Facial Emotion Detection via Hybrid Deep Learning and Customized Visual Dataset</h1>
 
-  <p><strong>FER2025</strong> is a deep learning-based project that integrates Facial Emotion Recognition (FER) with Gender Classification using Convolutional Neural Networks (CNNs). This multi-task learning approach improves recognition accuracy by considering gender-specific expression patterns.</p>
+  <p>A deep learning-based framework for joint Facial Emotion Recognition and Gender Classification is proposed using a convolutional neural network–based multi-task learning approach. Both tasks are learned simultaneously through shared feature representations, improving overall classification performance and enabling more robust and context-aware facial analysis.</p>
 
   <h2>Features</h2>
   <ul>
