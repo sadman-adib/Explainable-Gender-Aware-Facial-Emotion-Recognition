@@ -35,6 +35,9 @@
     <li><strong>mAP@50:</strong> 99.5 </li>
   </ul>
 
+   <h2>Ablation Study</h2>
+  <p>Comprehensive experiments were conducted using <strong>YOLOv8</strong> and <strong>YOLOv11</strong> across <strong>five different controlled environments</strong> to evaluate the impact of preprocessing, augmentation, optimizer settings, and training strategies on facial emotion detection performance.</p>
+
   <h2>Dataset & Access</h2>
   <p>Source: Royalty-free images</p>
   <p>Public Dataset: <a href="https://zenodo.org/records/19675193" target="_blank">Zenodo</a></p>
